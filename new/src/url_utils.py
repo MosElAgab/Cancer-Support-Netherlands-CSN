@@ -11,6 +11,14 @@ def get_url_section(url):
     return parts[0] if parts and parts[0] else "homepage"
 
 
+def get_last_url_path(url):
+    """Return the final URL path part, or homepage."""
+
+    path = urlparse(url).path
+    parts = [part for part in path.strip("/").split("/") if part]
+    return parts[-1] if parts else "homepage"
+
+
 def url_depth(url):
     """Count URL path depth."""
 
