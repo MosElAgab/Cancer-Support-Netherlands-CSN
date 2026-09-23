@@ -1,0 +1,22 @@
+item_id,section_number,section_heading,section_page_number,page_number,page_end_number,item_type,item_text,search_text
+1,1,Referrals and process,1,1,1,question,How do referrals work in the Netherlands?,Referrals and process. How do referrals work in the Netherlands?
+2,1,Referrals and process,1,1,1,question,Can I choose my hospital or specialist?,Referrals and process. Can I choose my hospital or specialist?
+3,1,Referrals and process,1,1,1,question,Can I change doctors?,Referrals and process. Can I change doctors?
+4,2,Waiting times,1,1,1,question,How long should I expect to wait for appointments or treatment?,Waiting times. How long should I expect to wait for appointments or treatment?
+5,2,Waiting times,1,1,1,question,What can I do if I feel the process is too slow?,Waiting times. What can I do if I feel the process is too slow?
+6,2,Waiting times,1,1,1,question,Is it normal to wait between steps?,Waiting times. Is it normal to wait between steps?
+7,3,Treatment decisions,1,1,1,question,How are treatment decisions made?,Treatment decisions. How are treatment decisions made?
+8,3,Treatment decisions,1,1,1,question,Can I ask for alternative options?,Treatment decisions. Can I ask for alternative options?
+9,3,Treatment decisions,1,1,1,question,Do I have time to decide?,Treatment decisions. Do I have time to decide?
+10,4,Second opinions,1,1,1,question,Am I allowed to get a second opinion? Also in another country.,Second opinions. Am I allowed to get a second opinion? Also in another country.
+11,4,Second opinions,1,1,1,question,How do I request one?,Second opinions. How do I request one?
+12,4,Second opinions,1,1,1,question,Will it be covered by insurance?,Second opinions. Will it be covered by insurance?
+13,5,Additional care and support,1,1,1,question,What additional services can I access?,Additional care and support. What additional services can I access?
+14,5,Additional care and support,1,1,1,support_item,Psychological care,Additional care and support. Psychological care
+15,5,Additional care and support,1,1,1,support_item,Physiotherapy,Additional care and support. Physiotherapy
+16,5,Additional care and support,1,1,1,support_item,Nutrition advice,Additional care and support. Nutrition advice
+17,5,Additional care and support,1,1,1,support_item,Fertility support,Additional care and support. Fertility support
+18,5,Additional care and support,1,1,1,question,How do I get referred to these services?,Additional care and support. How do I get referred to these services?
+19,6,Communication and understanding,1,2,2,question,What if I don’t understand medical terminology?,Communication and understanding. What if I don’t understand medical terminology?
+20,6,Communication and understanding,1,2,2,question,Can I request explanations in simpler language?,Communication and understanding. Can I request explanations in simpler language?
+21,6,Communication and understanding,1,2,2,question,Are there English-speaking healthcare providers?,Communication and understanding. Are there English-speaking healthcare providers?
