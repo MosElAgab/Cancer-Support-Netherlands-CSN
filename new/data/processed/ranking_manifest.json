@@ -1,0 +1,59 @@
+{
+  "inputs_sha256": {
+    "../data/interim/community_search_items.csv": "e3ebb4a9b22435c772801d6e758f028280fe7be52a7da6d38beeb62866aee52a",
+    "../data/interim/discovered_urls_for_scoring.csv": "723aaedaa4d639cfaf64882c15e8f4b06150d2b14d558023a09739a637abe425",
+    "../data/interim/discovered_links_enriched.csv": "f09bc8b5de79c5d27b6e486535230f38f451baf137e46db6dfa903a465176b18",
+    "../data/reference/community_query_profiles.csv": "9a6719cabafe714288a1c186a048ed12efdec04f55190cf244c7a6ec78171f33",
+    "../data/reference/community_search_vocabulary.csv": "44085788f3f527677b9cbd5af02cde9b885a1c39a9e84726ffd638313abffd36",
+    "../data/reference/metadata_retrieval_checks.csv": "305a5b03b5471300a0745bff6f275d961c06d1094291990b9a299582d6707fc2",
+    "../data/reference/metadata_review_decisions.csv": "3caac77357cbbe71b6f7477d2f9857a3c2e6e0e46580676a79630556166c0d8b",
+    "../data/reference/ranking_models.json": "13e2ea3611562846d69a2a84af8605d9fae660f8c1b4b598f59fa4a71dd6cf4e",
+    "../data/reference/selection_policy.json": "ea94eb1b1853e0c48b77a96df6ca2831c23d37a2f7661352836beeb766478877"
+  },
+  "helper_sha256": "03a1318f314bec96596f196d109f94e37d5ebc81463edb223763a03207e450b1",
+  "models": {
+    "embedding": {
+      "model_id": "sentence-transformers/multi-qa-MiniLM-L6-cos-v1",
+      "revision": "b207367332321f8e44f96e224ef15bc607f4dbf0"
+    },
+    "reranker": {
+      "model_id": "cross-encoder/ms-marco-MiniLM-L6-v2",
+      "revision": "233902d25c440f23af6f7d6e94d2946bac0bee0a"
+    }
+  },
+  "selection_policy": {
+    "min_reranker_score": -8.0,
+    "min_semantic_score": 0.35,
+    "semantic_without_phrase": 0.55,
+    "min_tfidf_without_phrase": 0.1,
+    "max_urls_per_item": 8,
+    "max_urls_per_domain_per_item": 3,
+    "near_duplicate_similarity": 0.98,
+    "retrieval_depth": 40,
+    "rrf_k": 60,
+    "note": "Initial heuristic settings for a manageable metadata-based scrape queue; not calibrated probabilities or proven optimal thresholds.",
+    "min_tfidf_with_phrase": 0.05
+  },
+  "field_weights": {
+    "title_text": 0.45,
+    "anchor_text": 0.45,
+    "section_text": 0.1
+  },
+  "versions": {
+    "numpy": "1.26.4",
+    "pandas": "3.0.5",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.17.1",
+    "sentence-transformers": "3.4.1",
+    "transformers": "4.48.3",
+    "torch": "2.2.2"
+  },
+  "counts": {
+    "input_urls": 3851,
+    "scored_urls": 3809,
+    "retrieved_pairs": 1855,
+    "selected_urls": 47
+  },
+  "page_requests": 0,
+  "evaluation": "Assistant metadata development checks; no independent human labels"
+}

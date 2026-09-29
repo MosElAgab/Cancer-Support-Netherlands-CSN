@@ -1,0 +1,185 @@
+item_id,phrase,weight,specificity,source
+1,referral,3,specific,assistant_authored_english_vocabulary
+1,referrals,3,specific,assistant_authored_english_vocabulary
+1,referred,3,specific,assistant_authored_english_vocabulary
+1,general practitioner,3,specific,assistant_authored_english_vocabulary
+1,gp,3,specific,assistant_authored_english_vocabulary
+1,specialist referral,3,specific,assistant_authored_english_vocabulary
+1,hospital,1,supporting,assistant_authored_english_vocabulary
+1,specialist,1,supporting,assistant_authored_english_vocabulary
+1,doctor,1,supporting,assistant_authored_english_vocabulary
+2,hospital choice,3,specific,assistant_authored_english_vocabulary
+2,choosing a hospital,3,specific,assistant_authored_english_vocabulary
+2,choose a hospital,3,specific,assistant_authored_english_vocabulary
+2,choice of hospital,3,specific,assistant_authored_english_vocabulary
+2,right hospital,3,specific,assistant_authored_english_vocabulary
+2,expert care,3,specific,assistant_authored_english_vocabulary
+2,specialist care,3,specific,assistant_authored_english_vocabulary
+2,hospital,1,supporting,assistant_authored_english_vocabulary
+2,specialist,1,supporting,assistant_authored_english_vocabulary
+2,choice,1,supporting,assistant_authored_english_vocabulary
+3,change doctors,3,specific,assistant_authored_english_vocabulary
+3,change doctor,3,specific,assistant_authored_english_vocabulary
+3,switch doctor,3,specific,assistant_authored_english_vocabulary
+3,another doctor,3,specific,assistant_authored_english_vocabulary
+3,different hospital,3,specific,assistant_authored_english_vocabulary
+3,transfer care,3,specific,assistant_authored_english_vocabulary
+3,second opinion,3,specific,assistant_authored_english_vocabulary
+3,hospital choice,1,supporting,assistant_authored_english_vocabulary
+3,doctor,1,supporting,assistant_authored_english_vocabulary
+3,specialist,1,supporting,assistant_authored_english_vocabulary
+4,waiting time,3,specific,assistant_authored_english_vocabulary
+4,waiting times,3,specific,assistant_authored_english_vocabulary
+4,waiting list,3,specific,assistant_authored_english_vocabulary
+4,waiting lists,3,specific,assistant_authored_english_vocabulary
+4,wait for treatment,3,specific,assistant_authored_english_vocabulary
+4,wait for appointment,3,specific,assistant_authored_english_vocabulary
+4,waiting,1,supporting,assistant_authored_english_vocabulary
+4,delay,1,supporting,assistant_authored_english_vocabulary
+4,appointment,1,supporting,assistant_authored_english_vocabulary
+5,care mediation,3,specific,assistant_authored_english_vocabulary
+5,healthcare mediation,3,specific,assistant_authored_english_vocabulary
+5,waiting list mediation,3,specific,assistant_authored_english_vocabulary
+5,waiting time,3,specific,assistant_authored_english_vocabulary
+5,waiting times,3,specific,assistant_authored_english_vocabulary
+5,waiting list,3,specific,assistant_authored_english_vocabulary
+5,waiting,1,supporting,assistant_authored_english_vocabulary
+5,mediation,1,supporting,assistant_authored_english_vocabulary
+5,delay,1,supporting,assistant_authored_english_vocabulary
+6,waiting time,3,specific,assistant_authored_english_vocabulary
+6,waiting times,3,specific,assistant_authored_english_vocabulary
+6,wait for treatment,3,specific,assistant_authored_english_vocabulary
+6,waiting for results,3,specific,assistant_authored_english_vocabulary
+6,waiting for treatment,3,specific,assistant_authored_english_vocabulary
+6,waiting,1,supporting,assistant_authored_english_vocabulary
+6,delay,1,supporting,assistant_authored_english_vocabulary
+6,diagnosis,1,supporting,assistant_authored_english_vocabulary
+7,shared decision,3,specific,assistant_authored_english_vocabulary
+7,decide together,3,specific,assistant_authored_english_vocabulary
+7,decision making,3,specific,assistant_authored_english_vocabulary
+7,treatment decision,3,specific,assistant_authored_english_vocabulary
+7,treatment plan,3,specific,assistant_authored_english_vocabulary
+7,multidisciplinary,3,specific,assistant_authored_english_vocabulary
+7,decision aid,3,specific,assistant_authored_english_vocabulary
+7,choose,1,supporting,assistant_authored_english_vocabulary
+7,options,1,supporting,assistant_authored_english_vocabulary
+7,decision,1,supporting,assistant_authored_english_vocabulary
+8,treatment options,3,specific,assistant_authored_english_vocabulary
+8,treatment choice,3,specific,assistant_authored_english_vocabulary
+8,treatment choices,3,specific,assistant_authored_english_vocabulary
+8,decide together,3,specific,assistant_authored_english_vocabulary
+8,shared decision,3,specific,assistant_authored_english_vocabulary
+8,decision aid,3,specific,assistant_authored_english_vocabulary
+8,choose treatment,3,specific,assistant_authored_english_vocabulary
+8,options,1,supporting,assistant_authored_english_vocabulary
+8,choice,1,supporting,assistant_authored_english_vocabulary
+8,decision,1,supporting,assistant_authored_english_vocabulary
+9,time to decide,3,specific,assistant_authored_english_vocabulary
+9,time to think,3,specific,assistant_authored_english_vocabulary
+9,treatment decision,3,specific,assistant_authored_english_vocabulary
+9,shared decision,3,specific,assistant_authored_english_vocabulary
+9,decide together,3,specific,assistant_authored_english_vocabulary
+9,decision aid,3,specific,assistant_authored_english_vocabulary
+9,decision,1,supporting,assistant_authored_english_vocabulary
+9,choice,1,supporting,assistant_authored_english_vocabulary
+9,options,1,supporting,assistant_authored_english_vocabulary
+10,second opinion,3,specific,assistant_authored_english_vocabulary
+10,second opinions,3,specific,assistant_authored_english_vocabulary
+10,care abroad,3,specific,assistant_authored_english_vocabulary
+10,treatment abroad,3,specific,assistant_authored_english_vocabulary
+10,abroad,1,supporting,assistant_authored_english_vocabulary
+10,another hospital,1,supporting,assistant_authored_english_vocabulary
+11,second opinion,3,specific,assistant_authored_english_vocabulary
+11,second opinions,3,specific,assistant_authored_english_vocabulary
+11,referral,1,supporting,assistant_authored_english_vocabulary
+11,specialist,1,supporting,assistant_authored_english_vocabulary
+12,second opinion,3,specific,assistant_authored_english_vocabulary
+12,second opinions,3,specific,assistant_authored_english_vocabulary
+12,insurance,1,supporting,assistant_authored_english_vocabulary
+12,coverage,1,supporting,assistant_authored_english_vocabulary
+12,reimbursement,1,supporting,assistant_authored_english_vocabulary
+12,costs,1,supporting,assistant_authored_english_vocabulary
+13,supportive care,3,specific,assistant_authored_english_vocabulary
+13,support services,3,specific,assistant_authored_english_vocabulary
+13,help and support,3,specific,assistant_authored_english_vocabulary
+13,find help,3,specific,assistant_authored_english_vocabulary
+13,cancer help,3,specific,assistant_authored_english_vocabulary
+13,referral guide,3,specific,assistant_authored_english_vocabulary
+13,rehabilitation,3,specific,assistant_authored_english_vocabulary
+13,psychosocial care,3,specific,assistant_authored_english_vocabulary
+13,support,1,supporting,assistant_authored_english_vocabulary
+13,help,1,supporting,assistant_authored_english_vocabulary
+13,services,1,supporting,assistant_authored_english_vocabulary
+14,psychological,3,specific,assistant_authored_english_vocabulary
+14,psychologist,3,specific,assistant_authored_english_vocabulary
+14,psychotherapy,3,specific,assistant_authored_english_vocabulary
+14,mental health,3,specific,assistant_authored_english_vocabulary
+14,psychosocial,3,specific,assistant_authored_english_vocabulary
+14,psycho oncology,3,specific,assistant_authored_english_vocabulary
+14,counselling,3,specific,assistant_authored_english_vocabulary
+14,counseling,3,specific,assistant_authored_english_vocabulary
+14,anxiety,1,supporting,assistant_authored_english_vocabulary
+14,depression,1,supporting,assistant_authored_english_vocabulary
+14,emotional,1,supporting,assistant_authored_english_vocabulary
+15,physiotherapy,3,specific,assistant_authored_english_vocabulary
+15,physical therapy,3,specific,assistant_authored_english_vocabulary
+15,physiotherapist,3,specific,assistant_authored_english_vocabulary
+15,exercise therapy,3,specific,assistant_authored_english_vocabulary
+15,rehabilitation,3,specific,assistant_authored_english_vocabulary
+15,exercise,1,supporting,assistant_authored_english_vocabulary
+15,recovery,1,supporting,assistant_authored_english_vocabulary
+16,nutrition,3,specific,assistant_authored_english_vocabulary
+16,nutritional,3,specific,assistant_authored_english_vocabulary
+16,dietitian,3,specific,assistant_authored_english_vocabulary
+16,dietician,3,specific,assistant_authored_english_vocabulary
+16,dietary advice,3,specific,assistant_authored_english_vocabulary
+16,malnutrition,3,specific,assistant_authored_english_vocabulary
+16,diet,1,supporting,assistant_authored_english_vocabulary
+16,food,1,supporting,assistant_authored_english_vocabulary
+16,eating,1,supporting,assistant_authored_english_vocabulary
+17,fertility,3,specific,assistant_authored_english_vocabulary
+17,infertility,3,specific,assistant_authored_english_vocabulary
+17,fertile,3,specific,assistant_authored_english_vocabulary
+17,egg freezing,3,specific,assistant_authored_english_vocabulary
+17,sperm freezing,3,specific,assistant_authored_english_vocabulary
+17,childbearing,3,specific,assistant_authored_english_vocabulary
+17,pregnancy,1,supporting,assistant_authored_english_vocabulary
+17,children,1,supporting,assistant_authored_english_vocabulary
+18,referral guide,3,specific,assistant_authored_english_vocabulary
+18,referred,3,specific,assistant_authored_english_vocabulary
+18,referral,3,specific,assistant_authored_english_vocabulary
+18,supportive care,3,specific,assistant_authored_english_vocabulary
+18,find help,3,specific,assistant_authored_english_vocabulary
+18,cancer help,3,specific,assistant_authored_english_vocabulary
+18,psychosocial care,3,specific,assistant_authored_english_vocabulary
+18,psychologist,1,supporting,assistant_authored_english_vocabulary
+18,physiotherapist,1,supporting,assistant_authored_english_vocabulary
+18,dietitian,1,supporting,assistant_authored_english_vocabulary
+18,support,1,supporting,assistant_authored_english_vocabulary
+19,dictionary,3,specific,assistant_authored_english_vocabulary
+19,glossary,3,specific,assistant_authored_english_vocabulary
+19,medical terminology,3,specific,assistant_authored_english_vocabulary
+19,medical terms,3,specific,assistant_authored_english_vocabulary
+19,plain language,3,specific,assistant_authored_english_vocabulary
+19,explanation,1,supporting,assistant_authored_english_vocabulary
+19,understanding,1,supporting,assistant_authored_english_vocabulary
+20,plain language,3,specific,assistant_authored_english_vocabulary
+20,simple language,3,specific,assistant_authored_english_vocabulary
+20,questions for,3,specific,assistant_authored_english_vocabulary
+20,conversation with,3,specific,assistant_authored_english_vocabulary
+20,talk to your doctor,3,specific,assistant_authored_english_vocabulary
+20,consultation,3,specific,assistant_authored_english_vocabulary
+20,communication,3,specific,assistant_authored_english_vocabulary
+20,decision aid,3,specific,assistant_authored_english_vocabulary
+20,three good questions,3,specific,assistant_authored_english_vocabulary
+20,explanation,1,supporting,assistant_authored_english_vocabulary
+20,understand,1,supporting,assistant_authored_english_vocabulary
+20,doctor,1,supporting,assistant_authored_english_vocabulary
+21,english speaking,3,specific,assistant_authored_english_vocabulary
+21,english,3,specific,assistant_authored_english_vocabulary
+21,interpreter,3,specific,assistant_authored_english_vocabulary
+21,translation,3,specific,assistant_authored_english_vocabulary
+21,language barrier,3,specific,assistant_authored_english_vocabulary
+21,language support,3,specific,assistant_authored_english_vocabulary
+21,language,1,supporting,assistant_authored_english_vocabulary
+21,communication,1,supporting,assistant_authored_english_vocabulary

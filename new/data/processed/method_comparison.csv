@@ -1,0 +1,5 @@
+method,examples,useful_ranked_first,useful_in_top_10
+hybrid,11,10,10
+phrase,11,11,9
+semantic,11,10,5
+tfidf,11,7,6

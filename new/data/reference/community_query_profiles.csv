@@ -1,0 +1,22 @@
+item_id,retrieval_query,source
+1,How do I get a referral from a GP to a hospital specialist in the Netherlands?,assistant_authored_search_expansion
+2,Can a cancer patient choose their hospital or specialist? Hospital choice and expert care.,assistant_authored_search_expansion
+3,"Can I change my doctor, switch specialist or transfer care to another hospital?",assistant_authored_search_expansion
+4,"How long do patients wait for appointments, diagnosis and cancer treatment? Waiting times.",assistant_authored_search_expansion
+5,What can I do about long waiting times? Care mediation and waiting list mediation through an insurer.,assistant_authored_search_expansion
+6,"Why is there a wait between cancer diagnosis, tests and treatment? Waiting times between steps.",assistant_authored_search_expansion
+7,"How are cancer treatment decisions made? Shared decision making, treatment plans and discussing options with doctors.",assistant_authored_search_expansion
+8,Can I discuss other cancer treatment options and choose between treatments with my doctor?,assistant_authored_search_expansion
+9,Do I have time to think and decide about cancer treatment? Treatment decisions and decision aids.,assistant_authored_search_expansion
+10,"Can I request a second opinion about cancer, including at a hospital abroad?",assistant_authored_search_expansion
+11,How do I request a second opinion? A referral to another specialist for a second opinion.,assistant_authored_search_expansion
+12,Is a second opinion covered or reimbursed by health insurance? Costs of a second opinion.,assistant_authored_search_expansion
+13,"Where can people with cancer find additional supportive care, rehabilitation and practical support services?",assistant_authored_search_expansion
+14,"Where can cancer patients get psychological care, counselling and mental health support?",assistant_authored_search_expansion
+15,"Physiotherapy, physical therapy and rehabilitation for people with cancer.",assistant_authored_search_expansion
+16,Nutrition advice and help from a dietitian during cancer treatment.,assistant_authored_search_expansion
+17,"Fertility support and fertility preservation before or after cancer treatment, including egg or sperm freezing.",assistant_authored_search_expansion
+18,"How can I get referred to supportive care such as a psychologist, physiotherapist or dietitian for cancer?",assistant_authored_search_expansion
+19,"Help understanding cancer medical terminology: dictionary, glossary and explanations of medical terms.",assistant_authored_search_expansion
+20,Can my doctor explain cancer information in simpler language? Preparing questions for a consultation and understanding explanations.,assistant_authored_search_expansion
+21,How can I find an English-speaking healthcare provider or an interpreter for medical consultations in the Netherlands?,assistant_authored_search_expansion

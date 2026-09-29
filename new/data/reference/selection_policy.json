@@ -1,0 +1,13 @@
+{
+  "min_reranker_score": -8.0,
+  "min_semantic_score": 0.35,
+  "semantic_without_phrase": 0.55,
+  "min_tfidf_without_phrase": 0.1,
+  "max_urls_per_item": 8,
+  "max_urls_per_domain_per_item": 3,
+  "near_duplicate_similarity": 0.98,
+  "retrieval_depth": 40,
+  "rrf_k": 60,
+  "note": "Initial heuristic settings for a manageable metadata-based scrape queue; not calibrated probabilities or proven optimal thresholds.",
+  "min_tfidf_with_phrase": 0.05
+}
